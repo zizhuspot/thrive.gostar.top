@@ -104,7 +104,7 @@ cover:
 
 ```sh
 # 克隆仓库
-$ git clone https://github.com/zizhuspot/thrive.gostar.com.git
+$ git clone https://github.com/zizhuspot/thrive.gostar.top.git
 # 安装依赖
 $ yarn install
 # 运行
