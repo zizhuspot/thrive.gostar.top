@@ -2,7 +2,7 @@
 title: SHEIN - From Unicorn to Inflection Point
 date: 2023-10-25 15:28:28
 categories:
-  - e-commerce
+  - E-commerce
 tags:
   - SHEIN
   - unicorn
